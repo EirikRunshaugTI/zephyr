@@ -23,3 +23,13 @@ tests:
       - kit_t2g_c2d6m_lite/cyt4dnjbzs/m0p
       - kit_t2g_c2d6m_lite/cyt4dnjbzs/m7_0
       - kit_t2g_c2d6m_lite/cyt4dnjbzs/m7_1
+      - lp_em_cc2745r10_q1/cc2745r10_q1
+      - lp_em_cc2745r10_q1/cc2755r10
+      - lp_em_cc2755r7_bg
+      - lp_em_cc2755r10_bg
+      - lp_em_cc2755p10
+      - lp_em_cc2755p20
+      - lp_em_cc2340r5
+      - lp_em_cc2340r5moda
+      - lp_em_cc2340r53
+      - lp_em_cc2340r53_wcsp
